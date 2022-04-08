@@ -1,0 +1,26 @@
+// ------------------ Comandos iniciais ------------------------- //
+
+-- Criando o projeto
+1. npx create-react-app [nome do projeto/pasta]{tem que ser letra minúscula}
+
+-- Criando um servidor fake
+2. npm install json-server
+
+-- Importando icones vercel
+3. npm install react-icons
+
+-- Importando rotas
+4. npm install react-router-dom
+
+-- Importando id's aleatórios
+5. npm install uuid
+
+-- inicia o projeto e ver se ta ok
+6. npm start
+
+-- Limpa o projeto removendo
+7. setupTeste + reportWeb + logo + app.teste.js + app.css
+
+-- Limpa os imports dos itens acima no app e index
+8. No css do index, zera o css e bota um novo, zerando body + passing + margins
+
